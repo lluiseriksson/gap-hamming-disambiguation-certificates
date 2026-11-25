@@ -1,0 +1,146 @@
+{
+  "schema": "GHD-DISAMBIG-CERT-1.0",
+  "mode": "lemma42_leaf_rectangle_restore_cert",
+  "cert_id": "m2_leaf_6x6_d3_near_quarter",
+  "num_rows": 6,
+  "num_cols": 6,
+  "protocol_cost_d": 3,
+  "mu_rows": [
+    "1/6",
+    "1/6",
+    "1/6",
+    "1/6",
+    "1/6",
+    "1/6"
+  ],
+  "nu_cols": [
+    "1/6",
+    "1/6",
+    "1/6",
+    "1/6",
+    "1/6",
+    "1/6"
+  ],
+  "func_matrix_01": [
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ]
+  ],
+  "leaf_rectangles": [
+    {
+      "rows": [
+        0,
+        1,
+        2
+      ],
+      "cols": [
+        0,
+        1,
+        2
+      ],
+      "output": 1
+    },
+    {
+      "rows": [
+        0,
+        1,
+        2
+      ],
+      "cols": [
+        3,
+        4,
+        5
+      ],
+      "output": 0
+    },
+    {
+      "rows": [
+        3,
+        4
+      ],
+      "cols": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "output": 0
+    },
+    {
+      "rows": [
+        5
+      ],
+      "cols": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "output": 0
+    },
+    {
+      "rows": [
+        5
+      ],
+      "cols": [
+        4,
+        5
+      ],
+      "output": 1
+    }
+  ],
+  "witness_leaf_idx": 0,
+  "claimed_base_expectation": "11/36",
+  "claimed_protocol_error": "0",
+  "claimed_witness_mass": "1/4",
+  "claimed_witness_cond_exp": "1",
+  "claimed_row_blowup_factor": "2",
+  "claimed_col_blowup_factor": "2"
+}

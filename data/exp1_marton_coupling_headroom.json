@@ -1,0 +1,32 @@
+{
+  "rows": [
+    {
+      "cert_id": "m1_marton_m3_D1_biased",
+      "m": 3,
+      "D": 1,
+      "col_to_muinf_ratio": 0.5,
+      "dist_sq_to_mD_ratio": 0.046875
+    },
+    {
+      "cert_id": "m1_marton_m4_D2_correlated",
+      "m": 4,
+      "D": 2,
+      "col_to_muinf_ratio": 0.303265,
+      "dist_sq_to_mD_ratio": 0.051658
+    },
+    {
+      "cert_id": "m1_marton_m4_D1_even_parity",
+      "m": 4,
+      "D": 1,
+      "col_to_muinf_ratio": 1.0,
+      "dist_sq_to_mD_ratio": 0.0625
+    },
+    {
+      "cert_id": "m1_marton_m5_D2_hamming_ball",
+      "m": 5,
+      "D": 2,
+      "col_to_muinf_ratio": 0.285194,
+      "dist_sq_to_mD_ratio": 0.031912
+    }
+  ]
+}

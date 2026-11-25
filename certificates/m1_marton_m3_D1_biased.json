@@ -1,0 +1,27 @@
+{
+  "schema": "GHD-DISAMBIG-CERT-1.0",
+  "mode": "marton_coupling_collision_cert",
+  "cert_id": "m1_marton_m3_D1_biased",
+  "num_bits_m": 3,
+  "mu_probs": [
+    "1/4",
+    "1/8",
+    "1/4",
+    "1/8",
+    "1/16",
+    "1/16",
+    "1/16",
+    "1/16"
+  ],
+  "deficit_D_int": 1,
+  "subset_I": [
+    0,
+    2
+  ],
+  "tail_param_s": 2,
+  "claimed_mu_inf": "1/4",
+  "claimed_expected_dist": "3/8",
+  "claimed_sum_ai_sq": "79/240",
+  "claimed_collision_Z": "1/8",
+  "claimed_tail_prob": "0"
+}

@@ -1,0 +1,32 @@
+{
+  "rows": [
+    {
+      "cert_id": "m2_leaf_4x4_d2_exact",
+      "d": 2,
+      "witness_mass": 0.25,
+      "lemma42_floor": 0.05,
+      "cond_exp": 1.0
+    },
+    {
+      "cert_id": "m2_leaf_4x4_d2_sharp_err_1_100",
+      "d": 2,
+      "witness_mass": 0.36,
+      "lemma42_floor": 0.05,
+      "cond_exp": 1.0
+    },
+    {
+      "cert_id": "m2_leaf_6x6_d3_near_quarter",
+      "d": 3,
+      "witness_mass": 0.25,
+      "lemma42_floor": 0.025,
+      "cond_exp": 1.0
+    },
+    {
+      "cert_id": "m2_leaf_8x8_d3_asymmetric",
+      "d": 3,
+      "witness_mass": 0.25,
+      "lemma42_floor": 0.025,
+      "cond_exp": 1.0
+    }
+  ]
+}

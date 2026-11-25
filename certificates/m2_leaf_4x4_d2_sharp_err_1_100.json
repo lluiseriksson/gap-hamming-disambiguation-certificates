@@ -1,0 +1,99 @@
+{
+  "schema": "GHD-DISAMBIG-CERT-1.0",
+  "mode": "lemma42_leaf_rectangle_restore_cert",
+  "cert_id": "m2_leaf_4x4_d2_sharp_err_1_100",
+  "num_rows": 4,
+  "num_cols": 4,
+  "protocol_cost_d": 2,
+  "mu_rows": [
+    "3/10",
+    "3/10",
+    "3/10",
+    "1/10"
+  ],
+  "nu_cols": [
+    "3/10",
+    "3/10",
+    "3/10",
+    "1/10"
+  ],
+  "func_matrix_01": [
+    [
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "leaf_rectangles": [
+    {
+      "rows": [
+        0,
+        1
+      ],
+      "cols": [
+        0,
+        1
+      ],
+      "output": 1
+    },
+    {
+      "rows": [
+        0,
+        1
+      ],
+      "cols": [
+        2,
+        3
+      ],
+      "output": 0
+    },
+    {
+      "rows": [
+        2,
+        3
+      ],
+      "cols": [
+        0,
+        1
+      ],
+      "output": 0
+    },
+    {
+      "rows": [
+        2,
+        3
+      ],
+      "cols": [
+        2,
+        3
+      ],
+      "output": 1
+    }
+  ],
+  "witness_leaf_idx": 0,
+  "claimed_base_expectation": "51/100",
+  "claimed_protocol_error": "1/100",
+  "claimed_witness_mass": "9/25",
+  "claimed_witness_cond_exp": "1",
+  "claimed_row_blowup_factor": "5/3",
+  "claimed_col_blowup_factor": "5/3"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Certified Verification of Communication Complexity Disambiguations of Gap Hamming Distance",
+  "authors": ["Lluis Eriksson"],
+  "abstract": "Dahiya, Goos, Harms, Hatami, Hatami, Lovett, and Yuan (arXiv:2611.32837, Nov 2026) proved that every total disambiguation of gamma-Gap Hamming Distance requires Omega(n^{2/3}) randomized communication complexity, establishing an O(1) vs Omega(n^{2/3}) separation between randomized and pseudo-deterministic communication complexity via an AI-discovered iterative Marton-coupling and leaf-rectangle restoration argument. We provide a zero-dependency Lean 4.35.0 formalization of 18 core structural, coupling, leaf-restoration, and exponent-balance theorems (zero sorry, zero warnings, zero Classical.choice) paired with a zero-floating-point exact-Q certificate verifier (GHD-DISAMBIG-CERT-1.0) across four modes. Across 16 canonical certificates (0.104-2.537 ms, total 7.29 ms), all invariants replay identically over Q while rejecting 63/63 live adversarial forgery attacks.",
+  "category": "cs.CC",
+  "license": "CC-BY-4.0",
+  "code_license": "MIT",
+  "repository_url": "https://github.com/lluiseriksson/gap-hamming-disambiguation-certificates",
+  "release_tag": "v1.0.0",
+  "operator_conflict": true,
+  "ai_assistance_disclosure": "Prepared by sole author Lluis Eriksson with AI coding, formalization, and drafting assistance from Google Antigravity; all Lean 4.35.0 proofs, exact-Q certificates, and adversarial tests were independently compiled and machine-verified locally.",
+  "target_reference": {
+    "arxiv_id": "2611.32837",
+    "authors": ["Yogesh Dahiya", "Mika Goos", "Nathaniel Harms", "Hamed Hatami", "Pooya Hatami", "Shachar Lovett", "Weiqiang Yuan"],
+    "title": "Communication Complexity of Disambiguations of Gap Hamming Distance",
+    "date": "2026-11-24"
+  }
+}

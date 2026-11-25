@@ -1,0 +1,20 @@
+import GapHammingDisambig
+
+#print axioms GapHammingDisambig.hamming_dist_triangle_bool
+#print axioms GapHammingDisambig.hamming_dist_xor_lift_exact
+#print axioms GapHammingDisambig.disambig_complement_expectation_ge_half
+#print axioms GapHammingDisambig.parity_tree_to_comm_factor_two
+#print axioms GapHammingDisambig.marton_marginal_prob_eq
+#print axioms GapHammingDisambig.lemma31a_cauchy_schwarz_hamming
+#print axioms GapHammingDisambig.lemma31b_collision_case_not_in_I
+#print axioms GapHammingDisambig.lemma31b_collision_case_in_I
+#print axioms GapHammingDisambig.lemma31b_markov_tail_2_neg_s
+#print axioms GapHammingDisambig.lemma41_union_bound_strict_lt_fifth
+#print axioms GapHammingDisambig.lemma41_conditioning_min_bound
+#print axioms GapHammingDisambig.lemma41_deficit_plus_7
+#print axioms GapHammingDisambig.lemma42_leaf_flip_reduces_error
+#print axioms GapHammingDisambig.lemma42_leaf_mass_lower_bound
+#print axioms GapHammingDisambig.remark43_deficit_plus_3_and_total_10
+#print axioms GapHammingDisambig.theorem11_final_contradiction_dist
+#print axioms GapHammingDisambig.theorem11_two_thirds_exponent_balance
+#print axioms GapHammingDisambig.two_thirds_beats_gavinsky_half

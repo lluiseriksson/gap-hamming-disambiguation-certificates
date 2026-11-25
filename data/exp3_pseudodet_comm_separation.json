@@ -1,0 +1,46 @@
+{
+  "rows": [
+    {
+      "n": 64,
+      "randomized_O1": 1,
+      "gavinsky_sqrt_n": 8,
+      "dahiya_n_2_3": 16,
+      "gain_factor": 2
+    },
+    {
+      "n": 4096,
+      "randomized_O1": 1,
+      "gavinsky_sqrt_n": 64,
+      "dahiya_n_2_3": 256,
+      "gain_factor": 4
+    },
+    {
+      "n": 262144,
+      "randomized_O1": 1,
+      "gavinsky_sqrt_n": 512,
+      "dahiya_n_2_3": 4096,
+      "gain_factor": 8
+    },
+    {
+      "n": 16777216,
+      "randomized_O1": 1,
+      "gavinsky_sqrt_n": 4096,
+      "dahiya_n_2_3": 65536,
+      "gain_factor": 16
+    },
+    {
+      "n": 1073741824,
+      "randomized_O1": 1,
+      "gavinsky_sqrt_n": 32768,
+      "dahiya_n_2_3": 1048576,
+      "gain_factor": 32
+    },
+    {
+      "n": 68719476736,
+      "randomized_O1": 1,
+      "gavinsky_sqrt_n": 262144,
+      "dahiya_n_2_3": 16777216,
+      "gain_factor": 64
+    }
+  ]
+}

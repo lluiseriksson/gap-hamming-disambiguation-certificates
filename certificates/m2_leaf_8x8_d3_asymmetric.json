@@ -1,0 +1,192 @@
+{
+  "schema": "GHD-DISAMBIG-CERT-1.0",
+  "mode": "lemma42_leaf_rectangle_restore_cert",
+  "cert_id": "m2_leaf_8x8_d3_asymmetric",
+  "num_rows": 8,
+  "num_cols": 8,
+  "protocol_cost_d": 3,
+  "mu_rows": [
+    "1/8",
+    "1/8",
+    "1/8",
+    "1/8",
+    "1/8",
+    "1/8",
+    "1/8",
+    "1/8"
+  ],
+  "nu_cols": [
+    "1/8",
+    "1/8",
+    "1/8",
+    "1/8",
+    "1/8",
+    "1/8",
+    "1/8",
+    "1/8"
+  ],
+  "func_matrix_01": [
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ]
+  ],
+  "leaf_rectangles": [
+    {
+      "rows": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "cols": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "output": 1
+    },
+    {
+      "rows": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "cols": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "output": 0
+    },
+    {
+      "rows": [
+        4,
+        5
+      ],
+      "cols": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "output": 0
+    },
+    {
+      "rows": [
+        6,
+        7
+      ],
+      "cols": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "output": 0
+    },
+    {
+      "rows": [
+        6,
+        7
+      ],
+      "cols": [
+        6,
+        7
+      ],
+      "output": 1
+    }
+  ],
+  "witness_leaf_idx": 0,
+  "claimed_base_expectation": "5/16",
+  "claimed_protocol_error": "0",
+  "claimed_witness_mass": "1/4",
+  "claimed_witness_cond_exp": "1",
+  "claimed_row_blowup_factor": "2",
+  "claimed_col_blowup_factor": "2"
+}

@@ -1,0 +1,113 @@
+{
+  "n": 500000000,
+  "gamma": "1/3",
+  "d": 4,
+  "rho": "1/4",
+  "rows": [
+    {
+      "t": 0,
+      "m_over_n": 1.0,
+      "two_Delta_over_n": 0.0,
+      "sum_over_n": 1.0,
+      "D_t": 0
+    },
+    {
+      "t": 1,
+      "m_over_n": 0.875,
+      "two_Delta_over_n": 0.0,
+      "sum_over_n": 0.875,
+      "D_t": 14
+    },
+    {
+      "t": 2,
+      "m_over_n": 0.765625,
+      "two_Delta_over_n": 0.001565,
+      "sum_over_n": 0.76719,
+      "D_t": 28
+    },
+    {
+      "t": 3,
+      "m_over_n": 0.669922,
+      "two_Delta_over_n": 0.003636,
+      "sum_over_n": 0.673558,
+      "D_t": 42
+    },
+    {
+      "t": 4,
+      "m_over_n": 0.586182,
+      "two_Delta_over_n": 0.006008,
+      "sum_over_n": 0.59219,
+      "D_t": 56
+    },
+    {
+      "t": 5,
+      "m_over_n": 0.512909,
+      "two_Delta_over_n": 0.00857,
+      "sum_over_n": 0.521479,
+      "D_t": 70
+    },
+    {
+      "t": 6,
+      "m_over_n": 0.448795,
+      "two_Delta_over_n": 0.01125,
+      "sum_over_n": 0.460045,
+      "D_t": 84
+    },
+    {
+      "t": 7,
+      "m_over_n": 0.392696,
+      "two_Delta_over_n": 0.013996,
+      "sum_over_n": 0.406692,
+      "D_t": 98
+    },
+    {
+      "t": 8,
+      "m_over_n": 0.343609,
+      "two_Delta_over_n": 0.01677,
+      "sum_over_n": 0.360379,
+      "D_t": 112
+    },
+    {
+      "t": 9,
+      "m_over_n": 0.300658,
+      "two_Delta_over_n": 0.019545,
+      "sum_over_n": 0.320202,
+      "D_t": 126
+    },
+    {
+      "t": 10,
+      "m_over_n": 0.263076,
+      "two_Delta_over_n": 0.022297,
+      "sum_over_n": 0.285373,
+      "D_t": 140
+    },
+    {
+      "t": 11,
+      "m_over_n": 0.230191,
+      "two_Delta_over_n": 0.025011,
+      "sum_over_n": 0.255202,
+      "D_t": 154
+    },
+    {
+      "t": 12,
+      "m_over_n": 0.201417,
+      "two_Delta_over_n": 0.027674,
+      "sum_over_n": 0.229091,
+      "D_t": 168
+    },
+    {
+      "t": 13,
+      "m_over_n": 0.17624,
+      "two_Delta_over_n": 0.030275,
+      "sum_over_n": 0.206515,
+      "D_t": 182
+    },
+    {
+      "t": 14,
+      "m_over_n": 0.15421,
+      "two_Delta_over_n": 0.032808,
+      "sum_over_n": 0.187018,
+      "D_t": 196
+    }
+  ]
+}
